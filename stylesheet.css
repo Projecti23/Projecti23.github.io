@@ -157,14 +157,17 @@ body {
 }
 
 .left {
+  padding-left: 30px;
   float: left;
   margin-top: 15px;
   color: white;
 }
 
 .right {
+  padding-right: 30px;
+  line-height: 9px;
   float: right;
-  margin-top: 3px;
+  margin-top: 15px;
   color: white;
 }
 
