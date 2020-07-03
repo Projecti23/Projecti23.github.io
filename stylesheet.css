@@ -148,19 +148,23 @@ body {
 /*CSS Main Tambahan*/
 .informasi {
   border-bottom: 1px solid #eee;
-  height: 65px;
+  
   background-image: url(bgCovid.png);
+}
+
+.info {
+  height: 100px;
 }
 
 .left {
   float: left;
-  margin-top: 20px;
+  margin-top: 15px;
   color: white;
 }
 
 .right {
   float: right;
-  margin-top: 15px;
+  margin-top: 3px;
   color: white;
 }
 
